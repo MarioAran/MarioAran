@@ -1,5 +1,13 @@
 # 🚀 Mario Arancibia — DevOps Engineer in Progress
+<pre align="center">
 
+██████╗░███████╗██╗░░░██╗░█████╗░██████╗░░██████╗
+██╔══██╗██╔════╝██║░░░██║██╔══██╗██╔══██╗██╔════╝
+██║░░██║█████╗░░╚██╗░██╔╝██║░░██║██████╔╝╚█████╗░
+██║░░██║██╔══╝░░░╚████╔╝░██║░░██║██╔═══╝░░╚═══██╗
+██████╔╝███████╗░░╚██╔╝░░╚█████╔╝██║░░░░░██████╔╝
+╚═════╝░╚══════╝░░░╚═╝░░░░╚════╝░╚═╝░░░░░╚═════╝░
+</pre>
 
 ☁️ **Cloud Automation** | 🌍 **Infrastructure as Code** | 🐧 **Open Source Enthusiast**
 
@@ -35,7 +43,7 @@ Currently studying DevOps & Cloud at UNIR and building real projects to master t
 
 ## 🧰 Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,python,bash,linux,vagrant,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,ansible,docker,python,bash,linux,vscode,github,git)](https://skillicons.dev)
 
 ---
 ### ☁️ Cloud & DevOps Stack
@@ -52,6 +60,7 @@ Currently studying DevOps & Cloud at UNIR and building real projects to master t
 ## 📊 GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MArioAran?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAran&layout=compact&theme=dark&hide_border=true)
 
 ---
