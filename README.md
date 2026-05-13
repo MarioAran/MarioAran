@@ -69,8 +69,6 @@ Actualmente estudiando DevOps & Cloud en UNIR y creando proyectos reales para do
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MarioAran?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAran&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 🏷️ Certificaciones y credenciales
