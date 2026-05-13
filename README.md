@@ -38,12 +38,12 @@ Actualmente estudiando DevOps & Cloud en UNIR y creando proyectos reales para do
 ## ✅ Objetivos 2026-2027
 
 - [x] 🔵 **AZ-900** - Azure Fundamentals
+- [x] 🔄 Pipeline CI/CD con GitHub Actions
+- [x] 🏗️ Proyecto con Kubernetes (K8s)
 - [ ] 🟠 **AWS Cloud Practitioner** - AWS Fundamentals (por UNIR)
 - [ ] 🟠 **AWS Solutions Architect Associate** - SAA-C03
 - [ ] 🟣 **DP-900** - Azure Data Fundamentals
 - [ ] 🟢 **AI-900** - Azure AI Fundamentals
-- [ ] 🏗️ Proyecto con Kubernetes (EKS / minikube)
-- [ ] 🔄 Pipeline CI/CD con GitHub Actions
 
 ---
 
